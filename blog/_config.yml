@@ -2,7 +2,7 @@ title: Clint's Portfolio
 email: clint93@uab.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Clint's personal blog.
-  
+
 baseurl: ""  # TODO?
 url: ""
 show_excerpts: true
@@ -25,8 +25,8 @@ plainwhite:
           url: "/projects"
         - title: My Resume
           url: "/resume"
-        - title: Who I am
-          url: "/who"
+        - title: Who am I
+          url: "/about"
     social_links:
         github: cclint
         gitlab: clint93
