@@ -1,1 +1,54 @@
-theme: jekyll-theme-minimal
+title: Clint's Portfolio
+email: clint93@uab.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  Clint's personal blog.
+
+baseurl: ""  # TODO?
+url: ""
+show_excerpts: true
+keywords: ["blog", "software", "cars"]
+
+# Build settings
+# theme: plainwhite-jekyll
+remote_theme: thelehhman/plainwhite-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+plainwhite:
+    name: Clinton Campbell
+    tagline: Software Developer Intern at UAB Research Computing
+    sitemap: true
+    date_format: "%b %-d, %Y"
+    navigation:
+        - title: Projects
+          url: "/projects"
+        - title: My Resume
+          url: "/resume"
+        - title: Who am I
+          url: "/about"
+    social_links:
+        github: cclint
+        gitlab: clint93
+        linkedIn: in/cclint
+        twitter: Clinton04424088
+
+owner:
+    name: Clinton Campbell
+    job: Software Developer
+    bio: TODO
+    email: clint93@uab.edu
+    github: cclint
+    gitlab: clint93
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
