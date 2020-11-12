@@ -25,7 +25,7 @@ plainwhite:
           url: "/projects"
         - title: My Resume
           url: "/resume"
-        - title: About me
+        - title: About Me
           url: "/about"
     social_links:
         github: cclint
