@@ -1,7 +1,16 @@
+title: Clint's Portfolio
+email: clint93@uab.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  Clint's personal blog.
+
+baseurl: ""  # TODO
+url: ""
+show_excerpts: true
+keywords: ["blog", "software", "cars"]
+
 # Build settings
 # theme: plainwhite-jekyll
 remote_theme: thelehhman/plainwhite-jekyll
-theme: plainwhite
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
