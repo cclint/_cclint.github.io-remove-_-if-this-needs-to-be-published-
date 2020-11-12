@@ -1,18 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Who I am
+permalink: /who-i-am/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### Who am I? 
+My name is Clinton Campbell. I'm a Computer Science and Mathematics student and software developer intern at the University of Alabama at Birmingham. I've been programming for about two years, and I've found interests in computer graphics, web and mobile app development, and programming languages. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### The purpose of this site
+This blog is where I'll write on various topics including but not limited to; software development, cars, gardening, and anything else that interests me! 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Contact Information
 
-
-[jekyll-organization]: https://github.com/jekyll
+- clint93@uab.edu
