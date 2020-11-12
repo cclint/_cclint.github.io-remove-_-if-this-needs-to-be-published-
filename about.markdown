@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Who am I
+title: About me
 permalink: /about/
 ---
 
-### Who am I? 
+### About me
 My name is Clinton Campbell. I'm a Computer Science and Mathematics student and software developer intern at the University of Alabama at Birmingham. I've been programming for about two years, and I've found interests in computer graphics, web and mobile app development, and programming languages. 
 
 ### The purpose of this site
