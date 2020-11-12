@@ -19,7 +19,7 @@ plainwhite:
     name: Clinton Campbell
     tagline: Software Developer Intern at UAB Research Computing
     sitemap: true
-    portfolio_image: "assets/avatar.jpg"
+    portfolio_image: "assets/avatar.png"
     dark_mode: true
     navigation:
         - title: Projects
