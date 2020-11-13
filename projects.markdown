@@ -10,3 +10,6 @@ Oh my, this project still has so much potential. This was my very first personal
 
 ## My First Ray Tracer!
 During my second semester as a computer science student at UAB, I became acquainted with my objected oriented programming professor, Dr. Byrd. One weekend (right before finals..), I called him asking if he would be interested in coding up a ray tracer with me. That same Satruday afternoon.. 9 hours later.. we built [my first raytracer](https://github.com/cclint/first-raytracer) in Racket!
+
+## Conway's Game of Life in C
+In my objected oriented programming class, we had honors meetings once per week, where we would talk about various topics like functional programming, artificial intelligence, machine learning, and so much more. That being said, our last lab was dedicated to the passing of John Horton Conway, who was a famous mathematician and computer scientist. In his memory, we implemented [Conway's Game of Life](https://github.com/cclint/AdvanceLabClub).
