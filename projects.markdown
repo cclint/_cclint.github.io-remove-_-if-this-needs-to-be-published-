@@ -8,7 +8,7 @@ permalink: /projects/
 ## iEat
 Oh my, this project still has so much potential. This was my very first personal project outside of class. My mother and I could never decided on where to eat, so I figured I would put my new computer programming skills to work. The goal of this program was to automate this decsion, or at least give an interesting suggestion. I plan to expand on [iEat](https://github.com/cclint/Python-Projects) in the near future, as my programming skills have increased significantly in the past two years.
 
-## My First Ray Tracer!
+## My First Ray Tracer
 During my second semester as a computer science student at UAB, I became acquainted with my objected oriented programming professor, Dr. Byrd. One weekend (right before finals..), I called him asking if he would be interested in coding up a ray tracer with me. That same Satruday afternoon.. 9 hours later.. we built [my first raytracer](https://github.com/cclint/first-raytracer) in Racket!
 
 ## Conway's Game of Life in C
