@@ -35,8 +35,8 @@ plainwhite:
         twitter: Clinton04424088
     analytics_id: "G-6QC0FGM4W7"
     sitemap: true
-    search: true
-
+    search: true # enables search bar by using the Simple-Jekyll-Search Jekyll plugin. This creates a search.json file containing post meta and contents will be genereated in the root folder. Searches based on user input for posts
+    
     
 
 owner:
