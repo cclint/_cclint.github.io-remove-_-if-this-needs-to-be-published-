@@ -34,6 +34,10 @@ plainwhite:
         linkedIn: in/cclint
         twitter: Clinton04424088
     analytics_id: "G-6QC0FGM4W7"
+    sitemap: true
+    search: true
+
+    
 
 owner:
     name: Clinton Campbell
