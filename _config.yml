@@ -21,7 +21,6 @@ plainwhite:
     sitemap: true
     portfolio_image: "assets/avatar.png"
     dark_mode: true
-    portfolio_image_dark: "assets/dark.png"
     navigation:
         - title: Projects
           url: "/projects"
