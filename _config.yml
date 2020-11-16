@@ -13,7 +13,7 @@ keywords: ["blog", "software", "cars"]
 remote_theme: thelehhman/plainwhite-jekyll
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
+  - jekyll-seo-tag # plugin to add metadata tags for search enignes/social networks to better index and display the site
 
 plainwhite:
     name: Clinton Campbell
