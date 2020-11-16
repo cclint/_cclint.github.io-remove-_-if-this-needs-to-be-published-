@@ -16,4 +16,4 @@ In my objected oriented programming class, we had honors meetings once per week,
 
 ## Galactic Empire Employee Management Web App
 During my internship at UAB Research Computing, I was given the task to build a [CRUD web app](https://github.com/cclint/Research-Computing) with python and Flask. Naturally, I found a [tutorial](https://scotch.io/tutorials/build-a-crud-web-app-with-python-and-flask-part-two)
- to help guide me through this process and famailarize myself with Flask and CRUD web apps. Since this was a mere exercise to get myself familiar with web development, I decided to theme this web app as if it were to be used by the Galactic Empire. May the force be with you and enjoy!
+ to help guide me through this process and  myself with Flask and CRUD web apps. Since this was a mere exercise to get myself familiarized with web development, I decided to theme this web app as if it were to be used by the Galactic Empire. May the force be with you and enjoy!
