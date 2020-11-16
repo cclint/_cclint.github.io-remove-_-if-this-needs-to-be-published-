@@ -13,4 +13,4 @@ This blog is where I'll write on various topics including but not limited to; so
 ### Contact Information
 
 - clint93@uab.edu
-- (205)607-1099
+- (205) 607-1099
