@@ -6,7 +6,7 @@ permalink: /projects/
 
 
 ## iEat
-Oh my, this little project still has so much potential. iEat was my very first personal project outside of class. My girlfriend and I could never decide on where to eat, so I figured I would put my new programming skills to work. The goal of this program was to automate this decsion, or at least give an interesting suggestion. I plan to expand on [iEat](https://github.com/cclint/Python-Projects) in the near future, as my programming skills have increased significantly in the past two years. There are so many different directions this project could go.
+Oh my, this little project still has so much potential. iEat was my very first personal project outside of class. My mother and I could never decide on where to eat, so I figured I would put my new programming skills to work. The goal of this program was to automate this decision, or at least give an interesting suggestion. I plan to expand on [iEat](https://github.com/cclint/Python-Projects) in the near future, as my programming skills have increased significantly in the past two years. There are so many different directions this project could go.
 
 ## My First Ray Tracer
 During my second semester as a computer science student at UAB, I became acquainted with my objected oriented programming professor, Dr. Byrd. One weekend (right before finals..), I called him asking if he would be interested in coding up a ray tracer with me. That same Saturday afternoon.. 9 hours later.. we built [my first raytracer](https://github.com/cclint/first-raytracer) in Racket!
