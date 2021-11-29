@@ -17,7 +17,7 @@ plugins:
 
 plainwhite:
     name: Clinton Campbell
-    tagline: Software Developer & Student
+    tagline: Software Engineer
     sitemap: true
     portfolio_image: "assets/avatar.png"
     dark_mode: true
