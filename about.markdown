@@ -15,5 +15,8 @@ This blog is where I'll write on various topics, including but not limited to: s
 - clint93@uab.edu
 - (205) 607-1099
 
+### Resume
+To view my resume, send me an email and I'll give you a key to access it on this site. Thanks!
+
 ### My PGP Public Key
 My PGP Public Key can be found [here](https://github.com/cclint.gpg).
