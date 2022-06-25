@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blogs"
-date:   2021-02-17 18:17:16 -0600
+date:   2022-06-25 18:17:16 -0600
 categories: welcome
 ---
-Hi and welcome to my newly built static site! I'll be posting blogs here after the end of the current semester.
+Hi all! Just moved from Alabama to Washington State.. still getting settled. Will post a blog here shortly :) 
