@@ -11,7 +11,7 @@ other outdoor hobbies! When I'm not taking Java to the dog park or working, I'm 
 
 
 ### The purpose of this site
-This blog is where I'll write on various topics, including but not limited to: software development, cycling, gardening, and anything else that interests me! 
+This blog is where I'll write on various topics, including but not limited to: software development, mountaineering, climbing, and anything else that interests me! 
 
 ### Contact Information
  
